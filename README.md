@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Oi, eu sou o Renan, desenvolvedor focado em web e mobile. Estou cursando Análise e Desenvolvimento de Sistemas (ADS) e atualmente estou no segundo semestre. Tenho uma afinidade especial com C#, especialmente na criação de APIs para projetos web e na integração dessas soluções. Um dos meus projetos favoritos é o Proveit, um app que desenvolvi como TCC no meu curso técnico. Ele foi criado para ajudar a reduzir o desperdício de comida, oferecendo receitas sustentáveis e acessíveis, mesmo para quem está começando na cozinha.<br><br>Estou sempre em busca de novas oportunidades para crescer na área de tecnologia e aumentar minha visibilidade. Acredito que com curiosidade e disciplina, a gente consegue ir muito longe.<br><br>Fora da tecnologia, gosto de viajar e explorar novos lugares, além de sempre buscar aprender um pouco de tudo. Isso me mantém motivado e aberto a novas experiências.<br><br>Fique à vontade para explorar meus projetos e entrar em contato!
 
 
